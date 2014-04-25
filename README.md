@@ -11,3 +11,5 @@ sudo apt-get install markdown
 
 * Edit index.md
 * Run `markdown index.md > index.html`
+
+Yeah, it's pretty high-tech
