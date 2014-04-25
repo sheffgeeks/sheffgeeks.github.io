@@ -15,9 +15,9 @@
 * [dot Net Sheffield](https://twitter.com/dotnetsheff) - 1st thursday
 * [Sheffield Ruby User Group (ShRUG)](http://shrug.org/) - 2nd monday
 * [WordPress Sheffield](http://wpsheffield.com/) - 2nd tuesday
+* [(def shef)](http://defshef.github.io) - 2nd tuesday
 * [Open Rights Group](https://sheffield.openrightsgroup.org/) - 2nd wednesday
 * [Sheffield PHP User Group](https://twitter.com/shefphp) - 2nd thursday
-* [(def shef)](http://defshef.github.io) - 2nd tuesday
 * [First Play Sheffield](http://firstplaysheffield.tumblr.com) - 3rd thursday
 * [Hardware Hackers](https://groups.google.com/forum/?hl=en&fromgroups#!forum/sheffield-hardware-hackers) - last monday
 * [Python Sheffield](https://twitter.com/pysheff) - last tuesday
