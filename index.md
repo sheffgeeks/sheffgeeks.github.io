@@ -1,13 +1,18 @@
 # Sheffield geeks
 
+## Social
+
+* [GitHub](https://github.com/sheffgeeks)
+* [Google+](https://plus.google.com/communities/107930287812860166795/events)
+
+## Calendar
+
+[http://sheffieldgeeks.org.uk](http://sheffieldgeeks.org.uk) (not working)
+
 ## Meetups
 
 * [Sheffield.js](http://www.meetup.com/Sheffield-js)
 * ...
-
-## GitHub
-
-[https://github.com/sheffgeeks](https://github.com/sheffgeeks)
 
 ## IRC
 
