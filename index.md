@@ -1,15 +1,19 @@
 # Sheffield geeks
 
-## Social
+## Internets
 
 * [GitHub](https://github.com/sheffgeeks)
 * [Google+](https://plus.google.com/communities/107930287812860166795/events)
+* [#sheffgeeks](irc://chat.freenode.net/sheffgeeks) on
+[Freenode IRC](http://freenode.net)
 
+<!--
 ## Calendar
 
 [http://sheffieldgeeks.org.uk](http://sheffieldgeeks.org.uk) (not working)
+-->
 
-## Meetups
+## Meatspace Meetups
 
 * [Geeks in the Pub](http://www.gitpub.org.uk/) - 1st wednesday
 * [dot Net Sheffield](https://twitter.com/dotnetsheff) - 1st thursday
@@ -34,7 +38,4 @@ for this page and send a pull request.
 [1]: https://github.com/sheffgeeks/sheffgeeks.github.io/issues/new
 [2]: https://github.com/sheffgeeks/sheffgeeks.github.io
 
-## IRC
 
-[#sheffgeeks](irc://chat.freenode.net/sheffgeeks) on
-[FreeNode](http://freenode.net)

@@ -1,0 +1,7 @@
+#!/bin/bash
+
+markdown index.md > content.html
+sed -e '/{CONTENT}/ {
+r content.html
+d
+}' < layout.html > index.html
