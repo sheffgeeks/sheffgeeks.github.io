@@ -30,7 +30,7 @@
 * [Open Data Sheffield](https://groups.google.com/forum/?hl=en&fromgroups=#!forum/opendatasheffield)
 * [Startup Club Sheffield](https://groups.google.com/forum/?hl=en&fromgroups=#!forum/startup-club-sheffield)
 * [Dorkbot Shefield](http://dorkbotsheffield.lurk.org/)
-* ...
+* [Sheffield Test Gathering](http://www.meetup.com/Sheffield-Test-Gathering)
 
 To add an event [open an issue][1] or just checkout [the code][2]
 for this page and send a pull request.
