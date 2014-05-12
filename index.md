@@ -4,8 +4,9 @@
 
 * [GitHub](https://github.com/sheffgeeks)
 * [Google+](https://plus.google.com/communities/107930287812860166795/events)
-* [#sheffgeeks](irc://chat.freenode.net/sheffgeeks) on
-[Freenode IRC](http://freenode.net)
+* [Twitter](http://twitter.com/sheffieldgeeks)
+* [Mailinglist](https://groups.google.com/forum/#!forum/sheffieldgeeks)
+* [#sheffgeeks](irc://chat.freenode.net/sheffgeeks) on [Freenode IRC](http://freenode.net) (active!)
 
 <!--
 ## Calendar
@@ -37,5 +38,3 @@ for this page and send a pull request.
 
 [1]: https://github.com/sheffgeeks/sheffgeeks.github.io/issues/new
 [2]: https://github.com/sheffgeeks/sheffgeeks.github.io
-
-
