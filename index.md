@@ -35,6 +35,11 @@
 * [Dorkbot Shefield](http://dorkbotsheffield.lurk.org/)
 * [Sheffield Test Gathering](http://www.meetup.com/Sheffield-Test-Gathering)
 
+## Events
+
+* [Maker day](http://makerdaysheffield.com/maker-day-2014) - 28th June
+
+
 # Other Geeks
 
 * [Leeds](http://leedsgeeks.net/)
