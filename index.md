@@ -3,6 +3,7 @@
 ## Internets
 
 * [GitHub](https://github.com/sheffgeeks)
+* [Gitorious](https://gitorious.org/+sheffgeeks)
 * [Google+](https://plus.google.com/communities/107930287812860166795/events)
 * [Twitter](http://twitter.com/sheffieldgeeks)
 * [Mailinglist](https://groups.google.com/forum/#!forum/sheffieldgeeks)
