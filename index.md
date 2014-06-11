@@ -38,6 +38,7 @@
 ## Events
 
 * [Maker day](http://makerdaysheffield.com/maker-day-2014) - 28th June
+* [Steel Con](http://www.steelcon.info/) - 11-13 July
 
 
 # Other Geeks
