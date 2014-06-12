@@ -32,7 +32,7 @@
 * [Raspberry Jam](http://shefjam.eventbrite.com/)
 * [Open Data Sheffield](https://groups.google.com/forum/?hl=en&fromgroups=#!forum/opendatasheffield)
 * [Startup Club Sheffield](https://groups.google.com/forum/?hl=en&fromgroups=#!forum/startup-club-sheffield)
-* [Dorkbot Shefield](http://dorkbotsheffield.lurk.org/)
+* [Dorkbot Sheffield](http://dorkbotsheffield.lurk.org/)
 * [Sheffield Test Gathering](http://www.meetup.com/Sheffield-Test-Gathering)
 * [Sheffield Linux User Group](http://www.sheflug.org.uk)
 
