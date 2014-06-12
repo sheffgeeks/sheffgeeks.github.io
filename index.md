@@ -24,7 +24,7 @@
 * [(def shef)](http://defshef.github.io) - 2nd tuesday
 * [Open Rights Group](https://sheffield.openrightsgroup.org/) - 2nd wednesday
 * [Sheffield PHP User Group](https://twitter.com/shefphp) - 2nd thursday
-* [First Play Sheffield](http://firstplaysheffield.tumblr.com) - 3rd thursday
+* [First Play Sheffield](http://www.firstplaysheffield.co.uk/) - 3rd thursday
 * [Hardware Hackers](https://groups.google.com/forum/?hl=en&fromgroups#!forum/sheffield-hardware-hackers) - last monday
 * [Python Sheffield](https://twitter.com/pysheff) - last tuesday
 * [Sheffield.js](http://www.meetup.com/Sheffield-js) - last thursday
