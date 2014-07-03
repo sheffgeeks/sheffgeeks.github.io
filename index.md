@@ -28,7 +28,6 @@
 * [Hardware Hackers](https://groups.google.com/forum/?hl=en&fromgroups#!forum/sheffield-hardware-hackers) - last monday
 * [Python Sheffield](https://twitter.com/pysheff) - last tuesday
 * [Sheffield.js](http://www.meetup.com/Sheffield-js) - last thursday
-* [Sheffield Bitcoin](https://www.eventbrite.co.uk/e/sheffield-bitcoin-meetup-tickets-11167228481) - last saturday
 * [Raspberry Jam](http://shefjam.eventbrite.com/)
 * [Open Data Sheffield](https://groups.google.com/forum/?hl=en&fromgroups=#!forum/opendatasheffield)
 * [Startup Club Sheffield](https://groups.google.com/forum/?hl=en&fromgroups=#!forum/startup-club-sheffield)
@@ -38,7 +37,6 @@
 
 ## Events
 
-* [Maker day](http://makerdaysheffield.com/maker-day-2014) - 28th June
 * [Steel Con](http://www.steelcon.info/) - 11-13 July
 
 
