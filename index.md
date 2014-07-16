@@ -37,7 +37,6 @@
 
 ## Events
 
-* [Steel Con](http://www.steelcon.info/) - 11-13 July
 * [Wuthering Bytes](http://wutheringbytes.com/) 15-17 Aug
 
 
