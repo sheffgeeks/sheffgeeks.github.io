@@ -45,6 +45,11 @@
 * [Trello](https://trello.com/sheffgeeks)
 * [#sheffgeeks-hosting](irc://chat.freenode.net/sheffgeeks-hosting) on [Freenode IRC](http://freenode.net)
 
+## Places
+
+* [Access Space](http://access-space.org/)
+* [Union St](http://www.union-st.org/)
+
 # Other Geeks
 
 * [Leeds](http://leedsgeeks.net/)
