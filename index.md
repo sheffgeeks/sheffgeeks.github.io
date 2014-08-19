@@ -38,6 +38,7 @@
 
 ## Events
 
+* [Digital Barn 4](http://makedo.in/thedigitalbarn/)
 
 ## Self-hosting initiative
 
