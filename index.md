@@ -38,8 +38,6 @@
 
 ## Events
 
-* [Wuthering Bytes](http://wutheringbytes.com/) 15-17 Aug
-
 
 # Other Geeks
 
