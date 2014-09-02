@@ -43,7 +43,7 @@
 ## Self-hosting initiative
 
 * [Trello](https://trello.com/sheffgeeks)
-* [#sheffgeeks-hosting](irc://chat.freenode.net/sheffgeeks-hosting) on [Freenode IRC](http://freenode.net)
+* [#darkpeak](irc://chat.freenode.net/darkpeak) on [Freenode IRC](http://freenode.net)
 
 ## Places
 
