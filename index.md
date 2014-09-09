@@ -25,6 +25,7 @@
 * [Open Rights Group](https://sheffield.openrightsgroup.org/) - 2nd wednesday
 * [Sheffield PHP User Group](https://twitter.com/shefphp) - 2nd thursday
 * [Open Data Sheffield](https://groups.google.com/forum/?hl=en&fromgroups=#!forum/opendatasheffield) - 3rd monday
+* [Crayon Monkeys](http://crayonmonkeys.eventbrite.co.uk) - 3rd Wednesday
 * [First Play Sheffield](http://www.firstplaysheffield.co.uk/) - 3rd thursday
 * [Hardware Hackers](https://groups.google.com/forum/?hl=en&fromgroups#!forum/sheffield-hardware-hackers) - last monday
 * [Python Sheffield](https://twitter.com/pysheff) - last tuesday
