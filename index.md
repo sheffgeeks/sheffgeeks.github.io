@@ -9,11 +9,10 @@
 * [Mailinglist](https://groups.google.com/forum/#!forum/sheffieldgeeks)
 * [#sheffgeeks](irc://chat.freenode.net/sheffgeeks) on [Freenode IRC](http://freenode.net) (active!)
 
-<!--
 ## Calendar
 
-[http://sheffieldgeeks.org.uk](http://sheffieldgeeks.org.uk) (not working)
--->
+[http://sheffieldgeeks.org.uk](http://sheffieldgeeks.org.uk)
+
 
 ## Meatspace Meetups
 
