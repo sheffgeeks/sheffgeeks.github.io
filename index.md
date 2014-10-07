@@ -29,6 +29,7 @@
 * [Hardware Hackers](https://groups.google.com/forum/?hl=en&fromgroups#!forum/sheffield-hardware-hackers) - last monday
 * [Python Sheffield](https://twitter.com/pysheff) - last tuesday
 * [Sheffield.js](http://www.meetup.com/Sheffield-js) - last thursday
+* [UX Sheffield](http://twitter.com/uxsheffield)
 * [Raspberry Jam](http://shefjam.eventbrite.com/)
 * [Startup Club Sheffield](https://groups.google.com/forum/?hl=en&fromgroups=#!forum/startup-club-sheffield)
 * [Dorkbot Sheffield](http://dorkbotsheffield.lurk.org/)
