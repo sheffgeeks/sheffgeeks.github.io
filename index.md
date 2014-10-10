@@ -17,7 +17,7 @@
 ## Meatspace Meetups
 
 * [Geeks in the Pub](http://www.gitpub.org.uk/) - 1st wednesday
-* [dot Net Sheffield](https://twitter.com/dotnetsheff) - 1st tuesday
+* [dot net sheff](http://dotnetsheff.co.uk) - 1st tuesday
 * [Sheffield Ruby User Group (ShRUG)](http://shrug.org/) - 2nd monday
 * [WordPress Sheffield](http://wpsheffield.com/) - 2nd tuesday
 * [(def shef)](http://defshef.github.io) - 2nd tuesday
