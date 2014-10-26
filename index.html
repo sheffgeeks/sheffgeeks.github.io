@@ -4,6 +4,7 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <link rel="stylesheet" href="/foundation.min.css" />
+<link rel="stylesheet" href="css/listevents.css" />
 <title>Sheffield Geeks</title>
 
 </head>
@@ -81,7 +82,12 @@
 
 <p>To add an event <a href="https://github.com/sheffgeeks/sheffgeeks.github.io/issues/new">open an issue</a> or just checkout <a href="https://github.com/sheffgeeks/sheffgeeks.github.io">the code</a>
 for this page and send a pull request.</p>
+<div id="calendar"></div>
 </div>
 </div>
+<script src="js/listevents.js"></script>
+<script>
+  OpenACalendarWidgetListEvents.place("calendar","opentechcalendar.co.uk",{areaID: 40});
+</script>
 </body>
 </html>

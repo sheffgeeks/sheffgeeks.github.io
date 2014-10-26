@@ -4,6 +4,7 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <link rel="stylesheet" href="/foundation.min.css" />
+<link rel="stylesheet" href="css/listevents.css" />
 <title>Sheffield Geeks</title>
 
 </head>
@@ -11,7 +12,12 @@
 <div class="row">
 <div class="small-12 columns">
 {CONTENT}
+<div id="calendar"></div>
 </div>
 </div>
+<script src="js/listevents.js"></script>
+<script>
+  OpenACalendarWidgetListEvents.place("calendar","opentechcalendar.co.uk",{areaID: 40});
+</script>
 </body>
 </html>
