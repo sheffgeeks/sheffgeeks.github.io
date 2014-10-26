@@ -13,6 +13,7 @@
 
 [http://sheffieldgeeks.org.uk](http://sheffieldgeeks.org.uk)
 
+<div id="calendar"></div>
 
 ## Meatspace Meetups
 
