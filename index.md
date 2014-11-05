@@ -39,8 +39,6 @@
 
 ## Events
 
-* [Digital Barn 4](http://makedo.in/thedigitalbarn/)
-
 ## Self-hosting initiative
 
 * [Trello](https://trello.com/sheffgeeks)
