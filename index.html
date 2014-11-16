@@ -4,6 +4,7 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <link rel="stylesheet" href="/foundation.min.css" />
+<link rel="stylesheet" href="css/listevents.css" />
 <title>Sheffield Geeks</title>
 
 </head>
@@ -26,6 +27,8 @@
 <h2>Calendar</h2>
 
 <p><a href="http://sheffieldgeeks.org.uk">http://sheffieldgeeks.org.uk</a></p>
+
+<div id="calendar"></div>
 
 <h2>Meatspace Meetups</h2>
 
@@ -79,5 +82,9 @@
 for this page and send a pull request.</p>
 </div>
 </div>
+<script src="js/listevents.js"></script>
+<script>
+  OpenACalendarWidgetListEvents.place("calendar","opentechcalendar.co.uk",{areaID: 40});
+</script>
 </body>
 </html>
