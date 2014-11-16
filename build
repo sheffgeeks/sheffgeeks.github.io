@@ -1,6 +1,11 @@
 #!/bin/bash
 
-markdown index.md > content.html
+markdown index.md | sed \
+-e 's/^.*--ROW.*$/<div class="row">/' \
+-e 's/^.*--COL.*$/<div class="small-12 medium-6 columns">/' \
+-e 's/^.*--END.*$/<\/div>/' \
+-e 's/^.*--CALENDAR.*$/<div id="calendar-events"><\/div>/' \
+> content.html
 sed -e '/{CONTENT}/ {
 r content.html
 d

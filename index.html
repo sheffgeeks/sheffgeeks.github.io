@@ -3,10 +3,13 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<link rel="stylesheet" href="/foundation.min.css" />
-<link rel="stylesheet" href="css/listevents.css" />
+<link rel="stylesheet" href="/css/foundation.min.css" />
 <title>Sheffield Geeks</title>
-
+<style type="text/css">
+.event p {
+    white-space: pre-line;
+}
+</style>
 </head>
 <body>
 <div class="row">
@@ -24,11 +27,20 @@
 <li><a href="irc://chat.freenode.net/sheffgeeks">#sheffgeeks</a> on <a href="http://freenode.net">Freenode IRC</a> (active!)</li>
 </ul>
 
-<h2>Calendar</h2>
+<div class="row">
+<div class="small-12 medium-6 columns">
 
-<p><a href="http://sheffieldgeeks.org.uk">http://sheffieldgeeks.org.uk</a></p>
+<h2>Upcoming</h2>
 
-<div id="calendar"></div>
+<p>See more at <a href="http://sheffieldgeeks.org.uk">http://sheffieldgeeks.org.uk</a></p>
+
+<div id="calendar-events"></div>
+
+<p>See all on <a href="https://opentechcalendar.co.uk/area/40-sheffield">Open Tech Calendar</a><br />
+Powered By <a href="http://ican.hasacalendar.co.uk/">Has A Calendar</a></p>
+
+</div>
+<div class="small-12 medium-6 columns">
 
 <h2>Meatspace Meetups</h2>
 
@@ -55,7 +67,8 @@
 <li><a href="https://twitter.com/NerdNiteSheff">Nerd Night Sheffield</a></li>
 </ul>
 
-<h2>Events</h2>
+</div>
+</div>
 
 <h2>Self-hosting initiative</h2>
 
@@ -82,9 +95,20 @@
 for this page and send a pull request.</p>
 </div>
 </div>
-<script src="js/listevents.js"></script>
-<script>
-  OpenACalendarWidgetListEvents.place("calendar","opentechcalendar.co.uk",{areaID: 40});
+<script src="/js/lodash.custom.min.js"></script>
+<script type="text/lodash-template" id="calendar-template">
+<% if (events.length) { %>
+    <% events.forEach(function(event) { %>
+        <div class="event">
+            <h3><a href="<%- event.url %>"><%- event.summary %></a></h3>
+            <p><strong><%- event.start.displaylocal %></strong>
+            <%- event.description %></p>
+        </div>
+    <% }) %>
+<% } else { %>
+    <p>No events are scheduled in the calendar.</p>
+<% } %>
 </script>
+<script src="/js/calendar.js"></script>
 </body>
 </html>

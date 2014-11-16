@@ -9,11 +9,20 @@
 * [Mailinglist](https://groups.google.com/forum/#!forum/sheffieldgeeks)
 * [#sheffgeeks](irc://chat.freenode.net/sheffgeeks) on [Freenode IRC](http://freenode.net) (active!)
 
-## Calendar
+--ROW
+--COL
 
-[http://sheffieldgeeks.org.uk](http://sheffieldgeeks.org.uk)
+## Upcoming
 
-<div id="calendar"></div>
+See more at [http://sheffieldgeeks.org.uk](http://sheffieldgeeks.org.uk)
+
+--CALENDAR
+
+See all on [Open Tech Calendar](https://opentechcalendar.co.uk/area/40-sheffield)<br />
+Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
+
+--ENDCOL
+--COL
 
 ## Meatspace Meetups
 
@@ -38,7 +47,8 @@
 * [Sheffield Linux User Group](http://www.sheflug.org.uk)
 * [Nerd Night Sheffield](https://twitter.com/NerdNiteSheff)
 
-## Events
+--ENDCOL
+--ENDROW
 
 ## Self-hosting initiative
 

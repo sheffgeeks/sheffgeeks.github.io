@@ -3,10 +3,13 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<link rel="stylesheet" href="/foundation.min.css" />
-<link rel="stylesheet" href="css/listevents.css" />
+<link rel="stylesheet" href="/css/foundation.min.css" />
 <title>Sheffield Geeks</title>
-
+<style type="text/css">
+.event p {
+    white-space: pre-line;
+}
+</style>
 </head>
 <body>
 <div class="row">
@@ -14,9 +17,20 @@
 {CONTENT}
 </div>
 </div>
-<script src="js/listevents.js"></script>
-<script>
-  OpenACalendarWidgetListEvents.place("calendar","opentechcalendar.co.uk",{areaID: 40});
+<script src="/js/lodash.custom.min.js"></script>
+<script type="text/lodash-template" id="calendar-template">
+<% if (events.length) { %>
+    <% events.forEach(function(event) { %>
+        <div class="event">
+            <h3><a href="<%- event.url %>"><%- event.summary %></a></h3>
+            <p><strong><%- event.start.displaylocal %></strong>
+            <%- event.description %></p>
+        </div>
+    <% }) %>
+<% } else { %>
+    <p>No events are scheduled in the calendar.</p>
+<% } %>
 </script>
+<script src="/js/calendar.js"></script>
 </body>
 </html>
