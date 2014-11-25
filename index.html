@@ -102,7 +102,9 @@ for this page and send a pull request.</p>
         <div class="event">
             <h3><a href="<%- event.url %>"><%- event.summary %></a></h3>
             <p><strong><%- event.start.displaylocal %></strong>
-            <%- event.description %></p>
+            <%- event.short %>
+            <a href="<%- event.url %>">Read More</a>
+            </p>
         </div>
     <% }) %>
 <% } else { %>

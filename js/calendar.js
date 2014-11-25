@@ -23,7 +23,15 @@
         var i = 0;
         return data.filter(function(event) {
             return !event.deleted && ++i < LIMIT;
-        })
+        }).map(function(event) {
+            if (event.description.length > 200) {
+                var short = event.description.substring(0, 200);
+                event.short = short.substring(0, short.lastIndexOf(' ')) + '...';
+            } else {
+                event.short = event.description;
+            }
+            return event;
+        });
     }
 
     function render(events) {
