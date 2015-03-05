@@ -45,7 +45,6 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 * [Dorkbot Sheffield](http://dorkbotsheffield.lurk.org/)
 * [Sheffield Test Gathering](http://www.meetup.com/Sheffield-Test-Gathering)
 * [Sheffield Linux User Group](http://www.sheflug.org.uk)
-* [Nerd Night Sheffield](https://twitter.com/NerdNiteSheff)
 
 --ENDCOL
 --ENDROW
