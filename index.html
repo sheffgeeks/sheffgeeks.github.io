@@ -146,11 +146,11 @@ for this page and send a pull request.</p>
             <h4 class="organiser">
                 <%- event.organiser %>
                 <% if (event.badgeStart) { %>
-                    <span class="badgeStart"><%- event.badgeStart %></span>
+                    <span class="badgeStart"><%- event.momentjs.calendar() %></span>
                 <% } %>
             </h4>
             <h3 class="title"><a href="<%- event.url %>"><%- event.summary %></a></h3>
-            <p class="date"><%- event.start.displaylocal %></p>
+            <p class="date"><%- event.momentjs.format('llll') %></p>
             <p class="description"><%- event.short %></p>
             <p class="readMore"><a href="<%- event.url %>">Read More</a></p>
         </div>

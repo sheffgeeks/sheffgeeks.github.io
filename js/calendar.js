@@ -27,8 +27,9 @@
         }).map(function(event) {
             var start = moment(event.start.timestamp * 1000);
             if (start.isBefore(moment().add(7, 'd'))) {
-                event.badgeStart = start.calendar();
+                event.badgeStart = true;
             }
+            event.momentjs = start;
             event.organiser = event.summaryDisplay.slice(0, event.summaryDisplay.lastIndexOf(event.summary) - 2);
             if (event.description.length > 200) {
                 var short = event.description.substring(0, 200);
