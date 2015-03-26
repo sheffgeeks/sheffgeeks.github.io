@@ -38,7 +38,7 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 * [First Play Sheffield](http://www.firstplaysheffield.co.uk/) - 3rd thursday
 * [Hardware Hackers](https://groups.google.com/forum/?hl=en&fromgroups#!forum/sheffield-hardware-hackers) - last monday
 * [Python Sheffield](https://twitter.com/pysheff) - last tuesday
-* [Sheffield.js](http://www.meetup.com/Sheffield-js) - last thursday
+* [Sheffield.js](https://twitter.com/sheffield_js) - last thursday
 * [UX Sheffield](http://twitter.com/uxsheffield)
 * [Raspberry Jam](http://shefjam.eventbrite.com/)
 * [Startup Club Sheffield](https://groups.google.com/forum/?hl=en&fromgroups=#!forum/startup-club-sheffield)
