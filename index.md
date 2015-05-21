@@ -66,7 +66,7 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 # Other Geeks
 
 * [Leeds](http://leedsgeeks.net/)
-* [Manchester MadLab](http://madlab.org.uk/)
+* [Manchester](http://technw.uk/)
 
 To add an event [open an issue][1] or just checkout [the code][2]
 for this page and send a pull request.
