@@ -7,7 +7,8 @@
 * [Google+](https://plus.google.com/communities/107930287812860166795/events)
 * [Twitter](http://twitter.com/sheffieldgeeks)
 * [Mailinglist](https://groups.google.com/forum/#!forum/sheffieldgeeks)
-* [#sheffgeeks](irc://chat.freenode.net/sheffgeeks) on [Freenode IRC](http://freenode.net) (active!)
+* <a href="https://www.irccloud.com/invite?channel=%23sheffgeeks&amp;hostname=irc.freenode.net&amp;port=6697&amp;ssl=1" target="_blank">#sheffgeeks</a> on [Freenode IRC](http://freenode.net) (active!)
+
 
 --ROW
 --COL
