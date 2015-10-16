@@ -34,10 +34,10 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 * [(def shef)](http://defshef.github.io) - 2nd tuesday
 * [Open Rights Group](https://sheffield.openrightsgroup.org/) - 2nd wednesday
 * [Open Data Sheffield](https://groups.google.com/forum/?hl=en&fromgroups=#!forum/opendatasheffield) - 3rd monday
+* [SheffieldSwift](https://twitter.com/sheffieldswift) - 3rd Tuesday
 * [Hardware Hackers](https://groups.google.com/forum/?hl=en&fromgroups#!forum/sheffield-hardware-hackers) - last monday
 * [Python Sheffield](https://twitter.com/pysheff) - last tuesday
 * [Sheffield.js](https://twitter.com/sheffield_js) - last thursday
-* [SheffieldSwift](http://sheffieldswift.github.io/)
 * [UX Sheffield](http://twitter.com/uxsheffield)
 * [Sheffield PHP User Group](https://twitter.com/shefphp)
 * [Raspberry Jam](http://shefjam.eventbrite.com/)
