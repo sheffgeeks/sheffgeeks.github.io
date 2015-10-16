@@ -44,7 +44,7 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 * [Startup Club Sheffield](https://groups.google.com/forum/?hl=en&fromgroups=#!forum/startup-club-sheffield)
 * [Dorkbot Sheffield](http://dorkbotsheffield.lurk.org/)
 * [Sheffield Test Gathering](http://www.meetup.com/Sheffield-Test-Gathering)
-* [Sheffield Linux User Group](http://www.sheflug.org.uk)
+* [Sheffield Linux User Group](http://www.sheflug.org.uk) - usually 1st or 2nd saturday
 
 --ENDCOL
 --ENDROW
