@@ -33,15 +33,13 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 * [WordPress Sheffield](http://wpsheffield.com/) - 2nd tuesday
 * [(def shef)](http://defshef.github.io) - 2nd tuesday
 * [Open Rights Group](https://sheffield.openrightsgroup.org/) - 2nd wednesday
-* [Sheffield PHP User Group](https://twitter.com/shefphp) - 2nd thursday
 * [Open Data Sheffield](https://groups.google.com/forum/?hl=en&fromgroups=#!forum/opendatasheffield) - 3rd monday
-* [SheffieldSwift](http://sheffieldswift.github.io/) - 3rd Tuesday
-* [Crayon Monkeys](http://crayonmonkeys.eventbrite.co.uk) - 3rd Wednesday
-* [First Play Sheffield](http://www.firstplaysheffield.co.uk/) - 3rd thursday
 * [Hardware Hackers](https://groups.google.com/forum/?hl=en&fromgroups#!forum/sheffield-hardware-hackers) - last monday
 * [Python Sheffield](https://twitter.com/pysheff) - last tuesday
 * [Sheffield.js](https://twitter.com/sheffield_js) - last thursday
+* [SheffieldSwift](http://sheffieldswift.github.io/)
 * [UX Sheffield](http://twitter.com/uxsheffield)
+* [Sheffield PHP User Group](https://twitter.com/shefphp)
 * [Raspberry Jam](http://shefjam.eventbrite.com/)
 * [Startup Club Sheffield](https://groups.google.com/forum/?hl=en&fromgroups=#!forum/startup-club-sheffield)
 * [Dorkbot Sheffield](http://dorkbotsheffield.lurk.org/)
