@@ -37,6 +37,7 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 * [SheffieldSwift](https://twitter.com/sheffieldswift) - 3rd Tuesday
 * [Hardware Hackers](https://groups.google.com/forum/?hl=en&fromgroups#!forum/sheffield-hardware-hackers) - last monday
 * [Python Sheffield](https://twitter.com/pysheff) - last tuesday
+* [SheffieldR](http://www.meetup.com/SheffieldR-Sheffield-R-Users-Group/) - last tuesday
 * [Sheffield.js](https://twitter.com/sheffield_js) - last thursday
 * [UX Sheffield](http://twitter.com/uxsheffield)
 * [Sheffield PHP User Group](https://twitter.com/shefphp)
