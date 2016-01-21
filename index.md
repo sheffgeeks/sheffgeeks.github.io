@@ -36,6 +36,7 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 * [Open Rights Group](https://sheffield.openrightsgroup.org/) - 2nd wednesday
 * [Open Data Sheffield](https://groups.google.com/forum/?hl=en&fromgroups=#!forum/opendatasheffield) - 3rd monday
 * [SheffieldSwift](https://twitter.com/sheffieldswift) - 3rd Tuesday
+* [MathsJam Sheffield](http://www.mathsjam.com/index.php?city=sheffield) - second to last tuesday
 * [Hardware Hackers](https://groups.google.com/forum/?hl=en&fromgroups#!forum/sheffield-hardware-hackers) - last monday
 * [Python Sheffield](https://twitter.com/pysheff) - last tuesday
 * [SheffieldR](http://www.meetup.com/SheffieldR-Sheffield-R-Users-Group/) - last tuesday
