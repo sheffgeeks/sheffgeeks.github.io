@@ -15,8 +15,6 @@
 
 ## Upcoming
 
-See more at [http://sheffieldgeeks.org.uk](http://sheffieldgeeks.org.uk)
-
 --CALENDAR
 
 See all on [Open Tech Calendar](https://opentechcalendar.co.uk/area/40-sheffield)<br />
