@@ -30,7 +30,7 @@
                 event.badgeStart = true;
             }
             event.momentjs = start;
-            event.organiser = event.summaryDisplay.slice(0, event.summaryDisplay.lastIndexOf(event.summary) - 2);
+            event.organiser = event.summaryDisplay.slice(0, event.summaryDisplay.lastIndexOf(event.summary)).replace(/:\s+$/g,'');
             if (event.description.length > 200) {
                 var short = event.description.substring(0, 200);
                 event.short = short.substring(0, short.lastIndexOf(' ')) + '...';
