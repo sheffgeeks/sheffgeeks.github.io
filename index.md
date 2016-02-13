@@ -68,8 +68,11 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 * [Leeds](http://leedsgeeks.net/)
 * [Manchester](http://technw.uk/)
 
-To add an event [open an issue][1] or just checkout [the code][2]
+You can add an event to the calender through [Open Tech Calendar][1]. To add a meetup or location [open an issue][2] or just checkout [the code][3]
 for this page and send a pull request.
+
+
 
 [1]: https://github.com/sheffgeeks/sheffgeeks.github.io/issues/new
 [2]: https://github.com/sheffgeeks/sheffgeeks.github.io
+[3]: https://opentechcalendar.co.uk/area/40-sheffield
