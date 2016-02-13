@@ -55,7 +55,6 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 * [#darkpeak](irc://chat.freenode.net/darkpeak) on [Freenode IRC](http://freenode.net)
 * [Email](https://lists.richardskingdom.net/mailman/listinfo/sheffgeeks-hosting)
 * [Wiki](https://wiki.darkpeak.org/)
-* [Trello](https://trello.com/sheffgeeks)
 
 ## Places
 
