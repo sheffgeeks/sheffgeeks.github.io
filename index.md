@@ -68,7 +68,7 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 * [Manchester](http://technw.uk/)
 
 
-You can add an event to the calender through [Open Tech Calendar][1]. To add a anything else [open an issue][2] or just checkout [the code][3]
+You can add an event to the calender through [Open Tech Calendar][1]. To add anything else [open an issue][2] or just checkout [the code][3]
 for this page and send a pull request.
 
 [1]: https://opentechcalendar.co.uk/area/40-sheffield
