@@ -71,6 +71,6 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 You can add an event to the calender through [Open Tech Calendar][1]. To add a anything else [open an issue][2] or just checkout [the code][3]
 for this page and send a pull request.
 
-[1]: https://github.com/sheffgeeks/sheffgeeks.github.io/issues/new
-[2]: https://github.com/sheffgeeks/sheffgeeks.github.io
-[3]: https://opentechcalendar.co.uk/area/40-sheffield
+[1]: https://opentechcalendar.co.uk/area/40-sheffield
+[2]: https://github.com/sheffgeeks/sheffgeeks.github.io/issues/new
+[3]: https://github.com/sheffgeeks/sheffgeeks.github.io
