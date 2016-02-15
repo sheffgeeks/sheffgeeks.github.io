@@ -20,6 +20,7 @@
 * [Access Space](http://access-space.org/)
 * [Union St](http://www.union-st.org/)
 * [Electric Works](http://electric-works.net/)
+* [Sheffield Hackspace](http://www.sheffieldhardwarehackers.org.uk/wordpress/what-we-do/)
 
 --ENDCOL
 --ENDROW
