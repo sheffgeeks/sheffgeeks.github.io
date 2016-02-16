@@ -1,0 +1,16 @@
+{
+  "name": "sheffgeeks",
+  "version": "0.0.1",
+  "description": "Sheffield geek user groups website",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sheffgeeks/sheffgeeks.github.io.git"
+  },
+  "author": "Laura Kishimoto <hello@laurakishimoto.com> (https://github.com/chicgeek)",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-sass": "^2.2.0",
+    "gulp-sourcemaps": "^1.6.0"
+  }
+}
