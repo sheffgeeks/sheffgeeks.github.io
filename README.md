@@ -1,21 +1,8 @@
-## setup instructions
-
-Debian / Ubuntu
-```
-sudo apt-get install markdown
-```
-
-OS X
-```
-brew install markdown
-```
-...or your OS-specific version of that
-
-
 ## build instructions
 
+* `npm install`
 * Edit index.md
-* Run `./build`
+* Run `npm run build`
 
 Yeah, it's pretty high-tech
 
