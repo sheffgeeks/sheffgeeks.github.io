@@ -55,7 +55,6 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 * [UX Sheffield](http://twitter.com/uxsheffield)
 * [Sheffield PHP User Group](https://twitter.com/shefphp)
 * [Raspberry Jam](http://shefjam.eventbrite.com/)
-* [Startup Club Sheffield](https://groups.google.com/forum/?hl=en&fromgroups=#!forum/startup-club-sheffield)
 * [Dorkbot Sheffield](http://dorkbotsheffield.lurk.org/)
 * [Sheffield Test Gathering](http://www.meetup.com/Sheffield-Test-Gathering)
 * [Sheffield Linux User Group](http://www.sheflug.org.uk) - usually 1st or 2nd saturday
