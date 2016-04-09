@@ -7,6 +7,7 @@
 
 * [GitHub](https://github.com/sheffgeeks)
 * <a href="https://www.irccloud.com/invite?channel=%23sheffgeeks&amp;hostname=irc.freenode.net&amp;port=6697&amp;ssl=1" target="_blank">#sheffgeeks</a> on [Freenode IRC](http://freenode.net) (active!)
+* [Sheffield.digital](http://sheffield.digital/)
 
 
 --ENDCOL
@@ -37,6 +38,8 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 
 ## Meatspace Meetups
 
+* Code And Coffee - every wed 7:30 at Cafe Nero S1 2JX
+* GeekBrekky - every friday 9am at Tamper S1 2N
 * [Geeks in the Pub](http://www.gitpub.org.uk/) - 1st wednesday
 * [dot net sheff](http://dotnetsheff.co.uk) - 1st tuesday
 * [Sheffield Ruby User Group (ShRUG)](http://shrug.org/) - 2nd monday
@@ -46,12 +49,14 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 * [Sheffield Devops](http://www.sheffielddevops.org.uk/) - 2nd thursday
 * [Open Data Sheffield](https://groups.google.com/forum/?hl=en&fromgroups=#!forum/opendatasheffield) - 3rd monday
 * [SheffieldSwift](https://twitter.com/sheffieldswift) - 3rd tuesday
+* [Startup in the pub](http://www.meetup.com/Startup-Sheffield/) - 3rd wednesday
 * [MathsJam Sheffield](http://www.mathsjam.com/index.php?city=sheffield) - second to last tuesday
 * [Hardware Hackers](https://groups.google.com/forum/?hl=en&fromgroups#!forum/sheffield-hardware-hackers) - last monday
 * [Python Sheffield](https://twitter.com/pysheff) - last tuesday
 * [SheffieldR](http://www.meetup.com/SheffieldR-Sheffield-R-Users-Group/) - last tuesday
 * [Agile Sheffield](http://www.meetup.com/Agile-Sheffield-Meetup/) - last wednesday
 * [Sheffield.js](https://twitter.com/sheffield_js) - last thursday
+* [OWASP Sheffield](https://www.owasp.org/index.php/Sheffield)
 * [UX Sheffield](http://twitter.com/uxsheffield)
 * [Sheffield PHP User Group](https://twitter.com/shefphp)
 * [Dorkbot Sheffield](http://dorkbotsheffield.lurk.org/)
@@ -76,6 +81,7 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 
 # Other Geeks
 
+* [Barnsley](http://barnsley.io/)
 * [Leeds](http://leedsgeeks.net/)
 * [Manchester](http://technw.uk/)
 
