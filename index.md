@@ -8,7 +8,7 @@
 * [GitHub](https://github.com/sheffgeeks)
 * <a href="https://www.irccloud.com/invite?channel=%23sheffgeeks&amp;hostname=irc.freenode.net&amp;port=6697&amp;ssl=1" target="_blank">#sheffgeeks</a> on [Freenode IRC](http://freenode.net) (active!)
 * [Sheffield.digital](http://sheffield.digital/)
-
+* [DarkPeak Self-hosting initiative](https://darkpeak.org/)
 
 --ENDCOL
 --COL
@@ -66,27 +66,11 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 --ENDCOL
 --ENDROW
 
---ROW
---COL
-
-## Self-hosting initiative
-
-* [#darkpeak](irc://chat.freenode.net/darkpeak) on [Freenode IRC](http://freenode.net)
-* [Email](https://lists.richardskingdom.net/mailman/listinfo/sheffgeeks-hosting)
-* [Wiki](https://wiki.darkpeak.org/)
-
-
---ENDCOL
---COL
-
 # Other Geeks
 
 * [Barnsley](http://barnsley.io/)
 * [Leeds](http://leedsgeeks.net/)
 * [Manchester](http://technw.uk/)
-
---ENDCOL
---ENDROW
 
 You can add an event to the calendar through [Open Tech Calendar][1]. To add anything else [open an issue][2] or just checkout [the code][3]
 for this page and send a pull request.
