@@ -1,7 +1,7 @@
 (function(elem, host, params, template) {
 
     var LIMIT = 5;
-    var baseUrl = '//' + host;
+    var baseUrl = 'https://' + host;
     var area = 'area/' + params.areaID;
 
     function fetch() {
