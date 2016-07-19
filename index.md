@@ -71,6 +71,7 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 * [Barnsley](http://barnsley.io/)
 * [Leeds](http://leedsgeeks.net/)
 * [Manchester](http://technw.uk/)
+* [Nottingham](http://nottingham.digital/)
 
 You can add an event to the calendar through [Open Tech Calendar][1]. To add anything else [open an issue][2] or just checkout [the code][3]
 for this page and send a pull request.
