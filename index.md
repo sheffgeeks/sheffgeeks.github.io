@@ -49,6 +49,7 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 * [Sheffield Devops](http://www.sheffielddevops.org.uk/) - 2nd thursday
 * [Open Data Sheffield](https://groups.google.com/forum/?hl=en&fromgroups=#!forum/opendatasheffield) - 3rd monday
 * [SheffieldSwift](https://twitter.com/sheffieldswift) - 3rd tuesday
+* [SheffieldML](https://twitter.com/shef_ml) - 3rd tuesday
 * [Startup in the pub](http://www.meetup.com/Startup-Sheffield/) - 3rd wednesday
 * [Tidal Club](http://twitter.com/tidalclub) - 3rd Thursday
 * [MathsJam Sheffield](http://www.mathsjam.com/index.php?city=sheffield) - second to last tuesday
