@@ -65,6 +65,7 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 * [Sheffield Test Gathering](http://www.meetup.com/Sheffield-Test-Gathering)
 * [Sheffield Linux User Group](http://www.sheflug.org.uk) - usually 1st or 2nd saturday
 * [Queer Code Yorkshire](https://opentechcalendar.co.uk/group/477-queer-code-yorkshire) - ad-hoc, Leeds and Sheffield
+* [FES: Front End Sheffield](https://twitter.com/FrontEndSheff) - every 2 months
 
 --ENDCOL
 --ENDROW
