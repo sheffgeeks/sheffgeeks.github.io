@@ -132,7 +132,7 @@ for this page and send a pull request.</p>
 <script src="/js/lodash.custom.min.js"></script>
 <script type="text/lodash-template" id="calendar-template">
 <% if (events.length) { %>
-    <% events.forEach(function(event) { %>
+    <% events.filter(event => !event.cancelled).forEach(function(event) { %>
         <div class="event" id="event<%- event._id %>">
             <h4 class="organiser">
                 <%- event.organiser %>
