@@ -41,8 +41,8 @@ gulp.task('page', function() {
 
 // watch and autocompile styles
 gulp.task('watch', function () {
-  gulp.watch('./css/**/*.scss', ['sass']);
-  gulp.watch(['./index.md', './layout.html'], ['page']);
+  gulp.watch('./css/**/*.scss', gulp.series(['sass']));
+  gulp.watch(['./index.md', './layout.html'], gulp.series(['page']));
 });
 
-gulp.task('default', ['sass', 'page']);
+gulp.task('default', gulp.parallel(['sass', 'page']));
