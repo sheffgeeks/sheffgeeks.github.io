@@ -39,33 +39,32 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 ## Meatspace Meetups
 
 * Code And Coffee - every wed 7:30 at Cafe Nero S1 2JX
-* GeekBrekky - every friday 9am at Tamper S1 2N
-* [Geeks in the Pub](http://www.gitpub.org.uk/) - 1st wednesday
-* [dot net sheff](http://dotnetsheff.co.uk) - 1st tuesday
-* [Sheffield Ruby User Group (ShRUG)](http://shrug.org/) - 2nd monday
-* [WordPress Sheffield](http://wpsheffield.com/) - 2nd tuesday
-* [(def shef)](http://defshef.github.io) - 2nd tuesday
-* [Open Rights Group](https://sheffield.openrightsgroup.org/) - 2nd wednesday
-* [Sheffield Devops](http://www.sheffielddevops.org.uk/) - 2nd thursday
-* [Open Data Sheffield](https://groups.google.com/forum/?hl=en&fromgroups=#!forum/opendatasheffield) - 3rd monday
-* [SheffieldSwift](https://twitter.com/sheffieldswift) - 3rd tuesday
-* [SheffieldML](https://twitter.com/shef_ml) - 3rd tuesday
-* [Startup in the pub](http://www.meetup.com/Startup-Sheffield/) - 3rd wednesday
+* GeekBrekky - every Friday 9am at Tamper S1 2N
+* [Geeks in the Pub](http://www.gitpub.org.uk/) - 1st Wednesday
+* [dot net sheff](http://dotnetsheff.co.uk) - 1st Tuesday
+* [Sheffield Ruby User Group (ShRUG)](http://shrug.org/) - 2nd Monday
+* [WordPress Sheffield](http://wpsheffield.com/) - 2nd Tuesday
+* [(def shef)](http://defshef.github.io) - 2nd Tuesday
+* [Open Rights Group](https://sheffield.openrightsgroup.org/) - 2nd Wednesday
+* [Sheffield Devops](http://www.sheffielddevops.org.uk/) - 2nd Thursday
+* [Open Data Sheffield](https://groups.google.com/forum/?hl=en&fromgroups=#!forum/opendatasheffield) - 3rd Monday
+* [SheffieldSwift](https://twitter.com/sheffieldswift) - 3rd Tuesday
+* [SheffieldML](https://twitter.com/shef_ml) - 3rd Tuesday
+* [Startup in the pub](http://www.meetup.com/Startup-Sheffield/) - 3rd Wednesday
 * [Tidal Club](http://twitter.com/tidalclub) - 3rd Thursday
-* [MathsJam Sheffield](http://www.mathsjam.com/index.php?city=sheffield) - second to last tuesday
-* [Hardware Hackers](https://groups.google.com/forum/?hl=en&fromgroups#!forum/sheffield-hardware-hackers) - last monday
-* [Python Sheffield](https://twitter.com/pysheff) - last tuesday
-* [SheffieldR](http://www.meetup.com/SheffieldR-Sheffield-R-Users-Group/) - last tuesday
-* [Agile Sheffield](http://www.meetup.com/Agile-Sheffield-Meetup/) - last wednesday
-* [Sheffield.js](https://twitter.com/sheffield_js) - last thursday
+* [MathsJam Sheffield](http://www.mathsjam.com/index.php?city=sheffield) - second to last Tuesday
+* [Hardware Hackers](https://groups.google.com/forum/?hl=en&fromgroups#!forum/sheffield-hardware-hackers) - last Monday
+* [Python Sheffield](https://twitter.com/pysheff) - last Tuesday
+* [SheffieldR](http://www.meetup.com/SheffieldR-Sheffield-R-Users-Group/) - last Tuesday
+* [Agile Sheffield](http://www.meetup.com/Agile-Sheffield-Meetup/) - last Wednesday
+* [Front End Sheffield](https://twitter.com/FrontEndSheff) - last Thursday
 * [OWASP Sheffield](https://www.owasp.org/index.php/Sheffield)
 * [UX Sheffield](http://twitter.com/uxsheffield)
 * [Sheffield PHP](https://www.sheffieldphp.co.uk/)
 * [Dorkbot Sheffield](http://dorkbotsheffield.lurk.org/)
 * [Sheffield Test Gathering](http://www.meetup.com/Sheffield-Test-Gathering)
-* [Sheffield Linux User Group](http://www.sheflug.org.uk) - usually 1st or 2nd saturday
+* [Sheffield Linux User Group](http://www.sheflug.org.uk) - usually 1st or 2nd Saturday
 * [Queer Code Yorkshire](https://opentechcalendar.co.uk/group/477-queer-code-yorkshire) - ad-hoc, Leeds and Sheffield
-* [FES: Front End Sheffield](https://twitter.com/FrontEndSheff) - every 2 months
 
 --ENDCOL
 --ENDROW
