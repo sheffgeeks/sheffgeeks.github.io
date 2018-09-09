@@ -42,6 +42,7 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 * GeekBrekky - every Friday 9am at Tamper S1 2N
 * [Geeks in the Pub](http://www.gitpub.org.uk/) - 1st Wednesday
 * [dot net sheff](http://dotnetsheff.co.uk) - 1st Tuesday
+* [GoSheffield](https://www.meetup.com/GoSheffield/) - 1st Thursday
 * [Sheffield Ruby User Group (ShRUG)](http://shrug.org/) - 2nd Monday
 * [WordPress Sheffield](http://wpsheffield.com/) - 2nd Tuesday
 * [(def shef)](http://defshef.github.io) - 2nd Tuesday
