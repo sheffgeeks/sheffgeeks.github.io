@@ -54,7 +54,7 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 * [Startup in the pub](http://www.meetup.com/Startup-Sheffield/) - 3rd Wednesday
 * [Tidal Club](http://twitter.com/tidalclub) - 3rd Thursday
 * [MathsJam Sheffield](http://www.mathsjam.com/index.php?city=sheffield) - second to last Tuesday
-* [Hardware Hackers](http://www.sheffieldhardwarehackers.org.uk/) - open evenings every Friday
+* [Sheffield Hackspace](http://www.sheffieldhardwarehackers.org.uk/) - open evenings every Friday
 * [Python Sheffield](https://twitter.com/pysheff) - last Tuesday
 * [SheffieldR](http://www.meetup.com/SheffieldR-Sheffield-R-Users-Group/) - last Tuesday
 * [Agile Sheffield](http://www.meetup.com/Agile-Sheffield-Meetup/) - last Wednesday
