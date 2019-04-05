@@ -18,7 +18,7 @@
 * [Access Space](http://access-space.org/)
 * [Union St](http://www.union-st.org/)
 * [Electric Works](http://electric-works.net/)
-* [Sheffield Hackspace](http://www.sheffieldhardwarehackers.org.uk/wordpress/what-we-do/)
+* [Sheffield Hackspace](http://www.sheffieldhardwarehackers.org.uk/)
 
 --ENDCOL
 --ENDROW
@@ -54,7 +54,7 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 * [Startup in the pub](http://www.meetup.com/Startup-Sheffield/) - 3rd Wednesday
 * [Tidal Club](http://twitter.com/tidalclub) - 3rd Thursday
 * [MathsJam Sheffield](http://www.mathsjam.com/index.php?city=sheffield) - second to last Tuesday
-* [Hardware Hackers](https://groups.google.com/forum/?hl=en&fromgroups#!forum/sheffield-hardware-hackers) - last Monday
+* [Hardware Hackers](http://www.sheffieldhardwarehackers.org.uk/) - open evenings every Friday
 * [Python Sheffield](https://twitter.com/pysheff) - last Tuesday
 * [SheffieldR](http://www.meetup.com/SheffieldR-Sheffield-R-Users-Group/) - last Tuesday
 * [Agile Sheffield](http://www.meetup.com/Agile-Sheffield-Meetup/) - last Wednesday
