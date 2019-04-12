@@ -53,6 +53,7 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 * [SheffieldML](https://twitter.com/shef_ml) - 3rd Tuesday
 * [Startup in the pub](http://www.meetup.com/Startup-Sheffield/) - 3rd Wednesday
 * [Tidal Club](http://twitter.com/tidalclub) - 3rd Thursday
+* [BCS South Yorkshire](https://www.bcs.org/category/18932) - 3rd Thursday (Sept - Apr)
 * [MathsJam Sheffield](http://www.mathsjam.com/index.php?city=sheffield) - second to last Tuesday
 * [Sheffield Hackspace](http://www.sheffieldhardwarehackers.org.uk/) - open evenings every Friday
 * [Python Sheffield](https://twitter.com/pysheff) - last Tuesday
