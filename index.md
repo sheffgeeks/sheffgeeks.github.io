@@ -46,7 +46,7 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 * [Sheffield Ruby User Group (ShRUG)](http://shrug.org/) - 2nd Monday
 * [WordPress Sheffield](http://wpsheffield.com/) - 2nd Tuesday
 * [(def shef)](http://defshef.github.io) - 2nd Tuesday
-* [Open Rights Group](https://sheffield.openrightsgroup.org/) - 2nd Wednesday
+* [CodeUp Sheffield](https://www.meetup.com/CodeUp-Sheffield/) - 2nd Wednesday
 * [Sheffield Devops](http://www.sheffielddevops.org.uk/) - 2nd Thursday
 * [Open Data Sheffield](https://groups.google.com/forum/?hl=en&fromgroups=#!forum/opendatasheffield) - 3rd Monday
 * [SheffieldSwift](https://twitter.com/sheffieldswift) - 3rd Tuesday
