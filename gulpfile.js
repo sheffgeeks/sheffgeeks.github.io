@@ -7,7 +7,7 @@ var gulp = require('gulp'),
     sourcemaps = require('gulp-sourcemaps'),
     name = require('gulp-rename'),
     replace = require('gulp-replace'),
-    md = require('gulp-remarkable')
+    md = require('gulp-markdown')
     wrap = require('gulp-wrap');
 
 // compile and compress styles
@@ -28,7 +28,7 @@ gulp.task('page', function() {
         .pipe(replace(/--COL/g, '<div class="small-12 medium-6 columns">'))
         .pipe(replace(/--END\w+/g, '</div>'))
         .pipe(replace(/--CALENDAR/g, '<div id="calendar-events"></div>'))
-        .pipe(md({ preset: 'commonmark', remarkableOptions: { html: true } }))
+        .pipe(md())
         .pipe(name('index.html'))
         .pipe(wrap({ src: './layout.html' }, {}, {
             // Use lodash template options which don't clash with client
