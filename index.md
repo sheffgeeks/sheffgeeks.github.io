@@ -40,10 +40,9 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 
 * Code And Coffee - every wed 7:30 at Cafe Nero S1 2JX
 * GeekBrekky - every Friday 9am at Tamper S1 2N
-* [Geeks in the Pub](http://www.gitpub.org.uk/) - 1st Wednesday
 * [dot net sheff](http://dotnetsheff.co.uk) - 1st Tuesday
+* [Geeks in the Pub](http://www.gitpub.org.uk/) - 1st Wednesday
 * [GoSheffield](https://www.meetup.com/GoSheffield/) - 1st Thursday
-* [Sheffield Ruby User Group (ShRUG)](http://shrug.org/) - 2nd Monday
 * [WordPress Sheffield](http://wpsheffield.com/) - 2nd Tuesday
 * [(def shef)](http://defshef.github.io) - 2nd Tuesday
 * [CodeUp Sheffield](https://www.meetup.com/CodeUp-Sheffield/) - 2nd Wednesday
@@ -52,6 +51,7 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 * [SheffieldSwift](https://twitter.com/sheffieldswift) - 3rd Tuesday
 * [SheffieldML](https://twitter.com/shef_ml) - 3rd Tuesday
 * [Startup in the pub](http://www.meetup.com/Startup-Sheffield/) - 3rd Wednesday
+* [Sheffield Ruby User Group (ShRUG)](http://shrug.org/) - 3rd Wednesday
 * [Tidal Club](http://twitter.com/tidalclub) - 3rd Thursday
 * [BCS South Yorkshire](https://www.bcs.org/category/18932) - 3rd Thursday (Sept - Apr)
 * [MathsJam Sheffield](http://www.mathsjam.com/index.php?city=sheffield) - second to last Tuesday
