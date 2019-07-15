@@ -1,11 +1,16 @@
 # Sheffield geeks
 
+We're a group of Sheffield-based geeks who like to hang out on IRC and IRL. This page lists local upcoming events, meetups, and places to hang out or work.
+
+You can add an event to the calendar through [Open Tech Calendar][1]. To add anything else [open an issue][2] on GitHub or just checkout [the code][3]
+for this page and send a pull request.
+
 --ROW
 --COL
 
 ## Internets
 
-* [GitHub](https://github.com/sheffgeeks)
+* [sheffgeeks on GitHub](https://github.com/sheffgeeks)
 * <a href="https://www.irccloud.com/invite?channel=%23sheffgeeks&amp;hostname=irc.freenode.net&amp;port=6697&amp;ssl=1" target="_blank">#sheffgeeks</a> on [Freenode IRC](http://freenode.net) (active!)
 * [Sheffield.digital](http://sheffield.digital/)
 * [DarkPeak Self-hosting initiative](https://darkpeak.org/)
@@ -36,7 +41,7 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 --ENDCOL
 --COL
 
-## Meatspace Meetups
+## Meatspace meetups
 
 * Code And Coffee - every wed 7:30 at Cafe Nero S1 2JX
 * GeekBrekky - every Friday 9am at Tamper S1 2N
@@ -72,18 +77,15 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 * [OWASP Sheffield](https://www.owasp.org/index.php/Sheffield) - inactive since 2018
 * [Dorkbot Sheffield](http://dorkbotsheffield.lurk.org/) - inactive since 2018
 
---ENDCOL
---ENDROW
-
-# Other Geeks
+## Other geeks
 
 * [Barnsley](http://barnsley.io/)
 * [Leeds](http://leedsgeeks.net/)
 * [Manchester](http://technw.uk/)
 * [Nottingham](http://nottingham.digital/)
 
-You can add an event to the calendar through [Open Tech Calendar][1]. To add anything else [open an issue][2] or just checkout [the code][3]
-for this page and send a pull request.
+--ENDCOL
+--ENDROW
 
 [1]: https://opentechcalendar.co.uk/area/40-sheffield
 [2]: https://github.com/sheffgeeks/sheffgeeks.github.io/issues/new
