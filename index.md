@@ -12,6 +12,7 @@ for this page and send a pull request.
 
 * [sheffgeeks on GitHub](https://github.com/sheffgeeks)
 * <a href="https://www.irccloud.com/invite?channel=%23sheffgeeks&amp;hostname=irc.freenode.net&amp;port=6697&amp;ssl=1" target="_blank">#sheffgeeks</a> on [Freenode IRC](http://freenode.net) (active!)
+* [Sheffgeeks Blogs](https://planet.sheffieldgeeks.org.uk/)
 * [Sheffield.digital](http://sheffield.digital/)
 * [DarkPeak Self-hosting initiative](https://darkpeak.org/)
 
