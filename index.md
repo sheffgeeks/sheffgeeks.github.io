@@ -62,6 +62,7 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 * [Python Sheffield](https://twitter.com/pysheff) - last Tuesday
 * [SheffieldR](http://www.meetup.com/SheffieldR-Sheffield-R-Users-Group/) - last Tuesday
 * [Agile Sheffield](http://www.meetup.com/Agile-Sheffield-Meetup/) - last Wednesday
+* [Bitcoin Sheffield](http://www.bitcoinsheffield.co.uk) - last Wednesday
 * [Front End Sheffield](https://twitter.com/FrontEndSheff) - last Thursday
 * [UX Sheffield](http://twitter.com/uxsheffield)
 * [Sheffield PHP](https://www.sheffieldphp.co.uk/)
