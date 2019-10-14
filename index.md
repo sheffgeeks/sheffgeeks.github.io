@@ -11,9 +11,9 @@ for this page and send a pull request.
 ## Internets
 
 * [sheffgeeks on GitHub](https://github.com/sheffgeeks)
-* <a href="https://www.irccloud.com/invite?channel=%23sheffgeeks&amp;hostname=irc.freenode.net&amp;port=6697&amp;ssl=1" target="_blank">#sheffgeeks</a> on [Freenode IRC](http://freenode.net) (active!)
+* <a href="https://www.irccloud.com/invite?channel=%23sheffgeeks&amp;hostname=irc.freenode.net&amp;port=6697&amp;ssl=1" target="_blank">#sheffgeeks</a> on [Freenode IRC](https://freenode.net) (active!)
 * [Sheffgeeks Blogs](https://planet.sheffieldgeeks.org.uk/)
-* [Sheffield.digital](http://sheffield.digital/)
+* [Sheffield.digital](https://sheffield.digital/)
 * [DarkPeak Self-hosting initiative](https://darkpeak.org/)
 
 --ENDCOL
@@ -21,9 +21,9 @@ for this page and send a pull request.
 
 ## Places
 
-* [Access Space](http://access-space.org/)
-* [Union St](http://www.union-st.org/)
-* [Electric Works](http://electric-works.net/)
+* [Access Space](https://access-space.org/)
+* [Union St](https://www.union-st.org/)
+* [Electric Works](https://electric-works.net/)
 * [Sheffield Hackspace](http://www.sheffieldhardwarehackers.org.uk/)
 
 --ENDCOL
@@ -46,45 +46,45 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 
 * Code And Coffee - every wed 7:30 at Cafe Nero S1 2JX
 * GeekBrekky - every Friday 9am at Tamper S1 2N
-* [dot net sheff](http://dotnetsheff.co.uk) - 1st Tuesday
-* [Geeks in the Pub](http://www.gitpub.org.uk/) - 1st Wednesday
+* [dot net sheff](https://dotnetsheff.co.uk) - 1st Tuesday
+* [Geeks in the Pub](https://www.gitpub.org.uk/) - 1st Wednesday
 * [GoSheffield](https://www.meetup.com/GoSheffield/) - 1st Thursday
 * [WordPress Sheffield](http://wpsheffield.com/) - 2nd Tuesday
-* [(def shef)](http://defshef.github.io) - 2nd Tuesday
+* [(def shef)](https://defshef.github.io) - 2nd Tuesday
 * [CodeUp Sheffield](https://www.meetup.com/CodeUp-Sheffield/) - 2nd Wednesday
-* [Sheffield Devops](http://www.sheffielddevops.org.uk/) - 2nd Thursday
+* [Sheffield Devops](https://www.sheffielddevops.org.uk/) - 2nd Thursday
 * [SheffieldSwift](https://twitter.com/sheffieldswift) - 3rd Tuesday
 * [SheffieldML](https://twitter.com/shef_ml) - 3rd Tuesday
-* [Sheffield Ruby User Group (ShRUG)](http://shrug.org/) - 3rd Wednesday
-* [Tidal Club](http://twitter.com/tidalclub) - 3rd Thursday
+* [Sheffield Ruby User Group (ShRUG)](https://shrug.org/) - 3rd Wednesday
+* [Tidal Club](https://twitter.com/tidalclub) - 3rd Thursday
 * [BCS South Yorkshire](https://www.bcs.org/category/18932) - 3rd Thursday (Sept - Apr)
 * [Sheffield Hackspace](http://www.sheffieldhardwarehackers.org.uk/) - open evenings every Friday
 * [Python Sheffield](https://twitter.com/pysheff) - last Tuesday
-* [SheffieldR](http://www.meetup.com/SheffieldR-Sheffield-R-Users-Group/) - last Tuesday
-* [Agile Sheffield](http://www.meetup.com/Agile-Sheffield-Meetup/) - last Wednesday
+* [SheffieldR](https://www.meetup.com/SheffieldR-Sheffield-R-Users-Group/) - last Tuesday
+* [Agile Sheffield](https://www.meetup.com/Agile-Sheffield-Meetup/) - last Wednesday
 * [Bitcoin Sheffield](http://www.bitcoinsheffield.co.uk) - last Wednesday
 * [Front End Sheffield](https://twitter.com/FrontEndSheff) - last Thursday
-* [UX Sheffield](http://twitter.com/uxsheffield)
+* [UX Sheffield](https://twitter.com/uxsheffield)
 * [Sheffield PHP](https://www.sheffieldphp.co.uk/)
-* [Sheffield Test Gathering](http://www.meetup.com/Sheffield-Test-Gathering)
-* [Sheffield Linux User Group](http://www.sheflug.org.uk) - usually 1st or 2nd Saturday
+* [Sheffield Test Gathering](https://www.meetup.com/Sheffield-Test-Gathering)
+* [Sheffield Linux User Group](https://www.sheflug.org.uk) - usually 1st or 2nd Saturday
 * [Queer Code Yorkshire](https://opentechcalendar.co.uk/group/477-queer-code-yorkshire) - ad-hoc, Leeds and Sheffield
 * [AWS Sheffield](https://www.meetup.com/AWSSheffield/) - every 2 months
 
 #### Currently inactive
 
 * [Open Data Sheffield](https://groups.google.com/forum/?hl=en&fromgroups=#!forum/opendatasheffield) - inactive since 2015
-* [Startup in the pub](http://www.meetup.com/Startup-Sheffield/) - inactive since 2016
-* [MathsJam Sheffield](http://www.mathsjam.com/index.php?city=sheffield) - inactive since 2017
+* [Startup in the pub](https://www.meetup.com/Startup-Sheffield/) - inactive since 2016
+* [MathsJam Sheffield](https://www.mathsjam.com/index.php?city=sheffield) - inactive since 2017
 * [OWASP Sheffield](https://www.owasp.org/index.php/Sheffield) - inactive since 2018
 * [Dorkbot Sheffield](http://dorkbotsheffield.lurk.org/) - inactive since 2018
 
 ## Other geeks
 
 * [Barnsley](http://barnsley.io/)
-* [Leeds](http://leedsgeeks.net/)
-* [Manchester](http://technw.uk/)
-* [Nottingham](http://nottingham.digital/)
+* [Leeds](https://leedsgeeks.net/)
+* [Manchester](https://technw.uk/)
+* [Nottingham](https://nottingham.digital/)
 
 --ENDCOL
 --ENDROW
