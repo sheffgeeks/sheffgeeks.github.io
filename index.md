@@ -51,7 +51,6 @@ Powered By [Has A Calendar](http://ican.hasacalendar.co.uk/)
 * [GoSheffield](https://www.meetup.com/GoSheffield/) - 1st Thursday
 * [WordPress Sheffield](http://wpsheffield.com/) - 2nd Tuesday
 * [(def shef)](https://defshef.github.io) - 2nd Tuesday
-* [CodeUp Sheffield](https://www.meetup.com/CodeUp-Sheffield/) - 2nd Wednesday
 * [Sheffield Devops](https://www.sheffielddevops.org.uk/) - 2nd Thursday
 * [SheffieldSwift](https://twitter.com/sheffieldswift) - 3rd Tuesday
 * [SheffieldML](https://twitter.com/shef_ml) - 3rd Tuesday
