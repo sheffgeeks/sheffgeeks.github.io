@@ -9,6 +9,9 @@
 .event {
     margin: 1.5rem 0 2rem 0;
 }
+.event--cancelled {
+    opacity: 0.7
+}
 .event h4.organiser {
     margin: 0;
     font-weight: 500;
@@ -37,17 +40,24 @@
     margin: 0;
     font-size: 1rem;
 }
-.event span.badgeStart {
+span.badgeStart {
     display: inline-block;
-    margin: 0 5px;
+    margin: 6px -1px;
     color: #fff;
     background-color: #2ba6cb;
     border-radius: 5px;
     padding: 6px;
-    font-size: 0.875rem;
+    font-size: 0.9rem;
+    font-weight: 500;
     line-height: 1;
     text-shadow: 1px 1px 0 rgba(0,0,0,0.5);
     box-shadow: 1px 1px 0 0 #222;
+}
+span.badgeStart--cancelled {
+    background-color: #ddd;
+    color: #666;
+    text-shadow: none;
+    box-shadow: 1px 1px 0 0 #bbb;
 }
 </style>
 </head>
@@ -62,15 +72,22 @@
 <script type="text/lodash-template" id="calendar-template">
 <% if (events.length) { %>
     <% events.forEach(function(event) { %>
-        <div class="event" id="event<%- event._id %>">
+        <div class="event<% if (event.cancelled) { %> event--cancelled<% } %>" id="event<%- event._id %>">
+            <% if (event.badgeStart) { %>
+                <span class="badgeStart
+                <% if (event.cancelled) { %> badgeStart--cancelled<% } %>">
+                    <% if (event.cancelled) { %>Cancelled:<% } %>
+                    <%- event.momentjs.calendar() %>
+                </span>
+            <% } %>
             <h4 class="organiser">
                 <%- event.organiser %>
-                <% if (event.badgeStart) { %>
-                    <span class="badgeStart"><%- event.momentjs.calendar() %></span>
-                <% } %>
             </h4>
             <h3 class="title"><a href="<%- event.url %>"><%- event.summary %></a></h3>
-            <p class="date"><%- event.momentjs.format('llll') %></p>
+            <p class="date">
+                <% if (event.cancelled) { %>Cancelled:<% } %>
+                <%- event.momentjs.format('llll') %>
+            </p>
             <p class="description"><%- event.short %></p>
             <p class="readMore"><a href="<%- event.url %>">Read More</a></p>
         </div>

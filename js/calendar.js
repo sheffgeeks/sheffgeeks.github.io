@@ -26,7 +26,7 @@
             return !event.deleted && ++i < LIMIT;
         }).map(function(event) {
             var start = moment(event.start.timestamp * 1000);
-            if (start.isBefore(moment().add(7, 'd'))) {
+            if (event.cancelled || start.isBefore(moment().add(7, 'd'))) {
                 event.badgeStart = true;
             }
             event.momentjs = start;
