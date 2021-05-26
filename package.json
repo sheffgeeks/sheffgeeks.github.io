@@ -8,7 +8,9 @@
   },
   "scripts": {
     "build": "gulp",
-    "dev": "gulp watch"
+    "dev": "gulp watch",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "author": "Laura Kishimoto <hello@laurakishimoto.com> (https://github.com/chicgeek)",
   "devDependencies": {
@@ -19,5 +21,9 @@
     "gulp-sass": "^4.1.0",
     "gulp-sourcemaps": "^3.0.0",
     "gulp-wrap": "^0.15.0"
+  },
+  "snyk": true,
+  "dependencies": {
+    "snyk": "^1.608.0"
   }
 }
